@@ -1,6 +1,6 @@
 # Stream
 
-## - Decentralized Twitch using Polygon
+## - Decentralized Youtube + Twitch using Polygon
 <p align="left">
   <img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?logo=OpenZeppelin&logoColor=fff&style=for-the-badge" width="155" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" width="110" />
